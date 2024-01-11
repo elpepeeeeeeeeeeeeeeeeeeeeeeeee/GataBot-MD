@@ -99,7 +99,7 @@ apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/GataNina-Li/GataBot-MD
+git clone https://github.com/elpepeeeeeeeeeeeeeeeeeeeeeeeee/GataBot-MD.git
 ```
 ```bash
 cd GataBot-MD
