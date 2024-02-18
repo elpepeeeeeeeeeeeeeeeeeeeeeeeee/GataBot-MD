@@ -107,15 +107,15 @@ global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = "KIRO-KBRO"
+global.author = "𝙂𝙖𝙩𝙖 BOT"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "KIRO KBRO"
 global.yt = "https://youtube.com/@gatadios"
 global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s"
 global.ig = "https://www.instagram.com/gata_dios"
